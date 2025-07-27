@@ -1,0 +1,8 @@
+#YOlo.py
+
+python yolo.py --image images/<nom d'image>.jpg --yolo yolo-coco
+
+
+#Yolo_video.py
+
+python yolo_video.py --input videos/<nom de video>.mp4 --output output/<nom de video>.avi --yolo yolo-coco
